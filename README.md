@@ -37,12 +37,10 @@ The work was structured in two main stages using SQL:
 ---
 
 ## Results
-The SQL queries yielded several key insights:
-- **Gender and BMI Distribution**: Provided foundational understanding of the patient pool.
+This project yielded several key insights:
+- **Gender and BMI Distribution**: Provided foundational understanding of the patient pool in their relational to the prevalance of CVD between the genders and BMI classes
 - **Cholesterol & Glucose Trends**:
-  - Patients with higher cholesterol or glucose levels were more likely to have cardiovascular disease.
+  - Patients with higher cholesterol or glucose levels were more likely to have cardiovascular disease
 - **Lifestyle Factors**:
-  - The likelihood of CVD increased with combinations of negative behaviors like smoking, drinking, and physical inactivity.
-  - Even among those who were physically active, CVD was present in those who smoked or consumed alcohol frequently.
-
-These findings can be used to support data driven public health strategies aimed at early prevention through targeted behavior modification and screenings
+  - The likelihood of CVD increased with combinations of negative behaviors like smoking, drinking, and physical inactivity
+  - Even among those who were physically active, CVD was present in those who smoked or consumed alcohol frequently

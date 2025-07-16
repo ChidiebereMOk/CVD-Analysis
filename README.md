@@ -14,12 +14,14 @@ The goal of this project is to:
 ## Actions
 The work was structured in two main stages using SQL:
 
-### Data Cleaning & Formatting (`Formatting Patient Data.sql`)
+### Data Cleaning & Formatting 
+[`Formatting Patient Data.sql`](https://github.com/ChidiebereMOk/CVD-Analysis/blob/main/Formatting%20Patient%20Data.sql)
 - Converted numerical encodings (e.g., gender, cholesterol, activity levels)
 - Standardized units for age, weight, and height
 - Formatted the data to make the dataset readable and ready for analysis
 
-### Data Analysis (`Analyzing Patient Data.sql`)
+### Data Analysis 
+[`Analyzing Patient Data.sql`](https://github.com/ChidiebereMOk/CVD-Analysis/blob/main/Formatting%20Patient%20Data.sql)
 - **Descriptive Statistics**:
   - Acounted for total patients and their gender distribution
   - Calculated average age and height
@@ -33,14 +35,22 @@ The work was structured in two main stages using SQL:
     - Alcohol consumption
     - Physical inactivity
   - Compared how combinations of these behaviors correlated with the presence or absence of CVD
+    
+ ### Dashboard
+[Tableau Dashboard](https://public.tableau.com/app/profile/mitchell.okere/viz/CardiovascularAnalysis/Dashboard2)
+
+This dashboard includes:
+- Patient distribution by gender and age
+- BMI groups vs. cardiovascular disease prevalence
+- Stacked bars showing CVD rates by cholesterol and glucose levels
+- Visual comparison of lifestyle combinations (smoking, drinking, activity) and their CVD impact
+- Filters that can be utilized to simulate various patient conditions
 
 ---
 
 ## Results
 This project yielded several key insights:
-- **Gender and BMI Distribution**: Provided foundational understanding of the patient pool in their relational to the prevalance of CVD between the genders and BMI classes
-- **Cholesterol & Glucose Trends**:
+  - Provided an understanding of the patient pool in their relational to the prevalance of CVD between the genders and BMI classes
   - Patients with higher cholesterol or glucose levels were more likely to have cardiovascular disease
-- **Lifestyle Factors**:
   - The likelihood of CVD increased with combinations of negative behaviors like smoking, drinking, and physical inactivity
   - Even among those who were physically active, CVD was present in those who smoked or consumed alcohol frequently

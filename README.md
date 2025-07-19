@@ -1,10 +1,10 @@
 # Cardiovascular Disease (CVD) Analysis
 
-As of 2025, cardiovascular disease (CVD) remains the leading cause of death worldwide, responsible for nearly 18 million deaths annually. Early identification of risk factors through patient data is essential in reducing its impact. I was provided with a dataset of **nearly 70,000** patient records that included both qualitative and quantitative health indicators. The goal was to analyze these records to better understand correlations between lifestyle factors and the presence of cardiovascular disease.
+As of 2025, cardiovascular disease (CVD) remains the leading cause of death worldwide, responsible for nearly 18 million deaths annually. Early identification of risk factors through patient data is essential in reducing its impact. I have taken a dataset of nearly 70,000 patient records that included both qualitative and quantitative health indicators. The goal of this assignment is to perform an analysis of these records to better understand correlations between lifestyle factors and the presence of cardiovascular disease.
 
 ---
 
-The goal of this project is to:
+The tasks involved in this project are to:
 1. Clean and format a raw medical dataset for analysis
 2. Develop SQL queries to explore patterns between cardiovascular disease and risk factors such as cholesterol, glucose, smoking, alcohol use, and physical inactivity
 3. Uncover insights that could guide preventative strategies for heart health

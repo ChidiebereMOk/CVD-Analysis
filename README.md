@@ -21,7 +21,7 @@ The work was structured in two main stages using SQL:
 - Formatted the data to make the dataset readable and ready for analysis
 
 ### Data Analysis 
-[`Analyzing Patient Data.sql`](https://github.com/ChidiebereMOk/CVD-Analysis/blob/main/Formatting%20Patient%20Data.sql)
+[`Analyzing Patient Data.sql`](https://github.com/ChidiebereMOk/CVD-Analysis/blob/main/Analyzing%20Patient%20Data.sql)
 - **Descriptive Statistics**:
   - Acounted for total patients and their gender distribution
   - Calculated average age and height
